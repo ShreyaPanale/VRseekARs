@@ -22,7 +22,6 @@ public class CustomBehaviour : MonoBehaviour
 
     private string[] shopsNames = { 
                                     "Zara",
-                                    "H & M",
                                     "Pantaloons",
                                     "Max",
                                     "Reliance Trends",
